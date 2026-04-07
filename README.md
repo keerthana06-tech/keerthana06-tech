@@ -3,69 +3,77 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=BB00FF&center=true&vCenter=true&lines=Turning+Curiosity+Into+Security;Exploring+the+Hidden+Side+of+Systems;Learning.+Breaking.+Securing.;Future+Cyber+Investigator;Focused.+Consistent.+Unstoppable." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=BB00FF&center=true&vCenter=true&lines=Turning+Curiosity+Into+Security;Exploring+Hidden+Systems;Learning.+Breaking.+Securing.;Future+Cyber+Investigator;Focused.+Consistent.+Unstoppable." />
 </p>
 
 <hr style="border: 1px solid #bb00ff;">
 
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="350"/>
+</p>
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="mailto:kethckk567@gmail.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/keerthana-c-944581317">💼 LinkedIn</a>
 </p>
 
 ---
 
 ## 🌙 About Me
 
-Hey! I'm **Keerthana** 👋  
+Hello, I'm **Keerthana** — a cybersecurity student focused on understanding how systems work, how they fail, and how to secure them.  
 
-A cybersecurity student who’s deeply curious about how systems work — and how they can be broken and secured. I enjoy exploring the hidden side of technology, understanding vulnerabilities, and building stronger solutions.  
+I value **clarity, structure, and deep understanding** over shortcuts. I enjoy analyzing systems, identifying vulnerabilities, and building secure, efficient solutions.  
 
-I’m currently developing my skills in **programming and cybersecurity**, focusing on writing clean, efficient code and creating meaningful, user-friendly projects. I believe in understanding concepts deeply rather than just using them.  
-
-I prefer a **minimal, focused approach 🖤** — simple on the outside, powerful on the inside. Once I start something, I stay with it until I truly understand it.  
-
-My goal is to grow into the **investigative side of cybersecurity**, where I can analyze, track, and solve real-world digital threats.  
-
----
-
-## ⚡ Mindset
-
-- 🖤 Calm, focused, consistent  
-- 💡 Understanding > memorizing  
-- 🧩 Strong problem-solving approach  
-- 🔐 Curious about system vulnerabilities  
-- 🎯 Progress over perfection  
+- 🔐 Focus: Cybersecurity & Investigation  
+- 💻 Strong interest in system-level thinking  
+- 🧠 Learning through real-world projects  
+- 🎯 Goal: Becoming a cybersecurity investigator  
 
 ---
 
-## 🚀 Skills
+## 🧠 Core Strengths
 
-- 💻 Languages: Python, C, AI Literecy
-- 🌐 Web: HTML, CSS, Flask  
-- 🔐 Security: Cryptography basics, AES, Hashing  
-- 🛠 Tools: Git, GitHub, VS Code, Visual Studio  
-
----
-
-## 🧠 Currently Exploring
-
-- 🔍 Ethical Hacking  
-- 🛡️ Digital Forensics  
-- 🌐 Secure Web Development  
-- ⚙️ Real-world cybersecurity projects  
+- 🔍 Analytical thinking  
+- 🧩 Problem-solving mindset  
+- 🔐 Security-focused approach  
+- ⚡ Consistency & discipline  
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Technologies
+
+### 💻 Languages
+Python • C • AI Literecy  
+
+### 🌐 Web
+HTML • CSS • Flask  
+
+### 🔐 Security
+Cryptography • AES • Hashing  
+
+### 🛠 Tools
+Git • GitHub • VS Code • Visual Studio  
+
+---
+
+## 📊 Statistics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=keerthana06-tech&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=keerthana06-tech&theme=tokyonight" />
 </p>
 
 ---
 
-## 📈 Contribution Graph
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=keerthana06-tech&theme=tokyo-night" />
@@ -73,25 +81,11 @@ My goal is to grow into the **investigative side of cybersecurity**, where I can
 
 ---
 
-## 🛠️ Tech Stack
+## ⚡ Contribution Streak Mindset
 
-<p>
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</p>
-
----
-
-## 🔗 Connect With Me
-
-- 💌 Email: kethckk567@gmail.com  
-- 💼 LinkedIn: www.linkedin.com/in/keerthana-c-944581317 
+- 🔥 Consistency builds expertise  
+- 📈 Small daily progress matters  
+- 🎯 Focus on long-term growth  
 
 ---
 
