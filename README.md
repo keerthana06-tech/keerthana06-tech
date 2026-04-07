@@ -8,7 +8,11 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&size=22&lines=Turning+Curiosity+Into+Security;Exploring+Hidden+Systems;Learning.+Breaking.+Securing.;Future+Cyber+Investigator;Focused.+Consistent." />
+  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="400"/>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/keerthana06-tech/keerthana06-tech/main/red-hacker.png" width="400"/>
 </p>
 
 <!-- 🔥 THIN RED GLOW LINE -->
