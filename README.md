@@ -3,13 +3,13 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=BB00FF&center=true&vCenter=true&lines=I+Break+Systems+To+Secure+Them;Cybersecurity+is+My+Game;Code.+Analyze.+Defend.;Future+Digital+Investigator;Silent+Focus.+Powerful+Results." />
+  <img src="https://readme-typing-svg.herokuapp.com?color=BB00FF&center=true&vCenter=true&lines=Turning+Curiosity+Into+Security;Exploring+the+Hidden+Side+of+Systems;Learning.+Breaking.+Securing.;Future+Cyber+Investigator;Focused.+Consistent.+Unstoppable." />
 </p>
 
 <hr style="border: 1px solid #bb00ff;">
 
 <p align="center">
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400"/>
 </p>
 
 ---
