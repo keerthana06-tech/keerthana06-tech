@@ -9,7 +9,7 @@
 <hr style="border: 1px solid #bb00ff;">
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:bb00ff&height=120&section=header"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="400"/>
 </p>
 
 ---
@@ -94,3 +94,4 @@ My goal is to grow into the **investigative side of cybersecurity**, where I can
 - 💼 LinkedIn: your-linkedin-link  
 
 ---
+
