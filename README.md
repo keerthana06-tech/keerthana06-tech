@@ -18,7 +18,7 @@
 
 <!-- 🩸 RED HACKER STYLE GIF -->
 <p align="center">
-  <img src="https://pin.it/5NWEpiYC4" width="380"/>
+  <img src="https://pin.it/5NWEpiYC4" width="100"/>
 </p>
 
 
