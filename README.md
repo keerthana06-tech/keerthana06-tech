@@ -18,7 +18,7 @@
 
 <!-- 🩸 RED HACKER STYLE GIF -->
 <p align="center">
-  <img src="https://chatgpt.com/backend-api/estuary/content?id=file_0000000048a0720b96cfd4d69f2807fc&ts=493216&p=fs&cid=1&sig=da2d2c06f55abb325b2778305ac63fa03afdde253065eb8a2a9b0a0af007f73f&v=0" style="max-width:400px;"/>
+  <img src="" style="max-width:400px;"/>
 </p>
 
 
