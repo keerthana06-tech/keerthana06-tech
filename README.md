@@ -90,8 +90,8 @@ My goal is to grow into the **investigative side of cybersecurity**, where I can
 
 ## 🔗 Connect With Me
 
-- 💌 Email: your-email@example.com  
-- 💼 LinkedIn: your-linkedin-link  
+- 💌 Email: kethckk567@gmail.com  
+- 💼 LinkedIn: www.linkedin.com/in/keerthana-c-944581317 
 
 ---
 
