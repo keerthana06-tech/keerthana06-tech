@@ -1,4 +1,4 @@
-<!-- 🩸 TOP BLOOD RED ANIMATED BORDER -->
+<!-- 🩸 TOP BLOOD RED BORDER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=120&section=header&animation=fadeIn"/>
 </p>
@@ -8,21 +8,17 @@
 </h1>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aCTfyhYawdOXcFW/giphy.gif" width="400"/>
+  <img src="https://readme-typing-svg.herokuapp.com?color=FF0000&center=true&vCenter=true&size=22&lines=Turning+Curiosity+Into+Security;Exploring+Hidden+Systems;Learning.+Breaking.+Securing.;Future+Cyber+Investigator;Focused.+Consistent." />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/keerthana06-tech/keerthana06-tech/main/red-hacker.png" width="400"/>
-</p>
-
-<!-- 🔥 THIN RED GLOW LINE -->
+<!-- 🔥 RED GLOW LINE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0000,100:000000&height=4&animation=twinkling"/>
 </p>
 
-<!-- 👩‍💻 GIRL CODING -->
+<!-- 🩸 YOUR IMAGE -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
+  <img src="red-hacker.png" width="400"/>
 </p>
 
 ---
@@ -109,7 +105,7 @@ My goal is to move into the investigative side of cybersecurity and work on real
 
 ---
 
-<!-- 🩸 BOTTOM BLOOD RED BORDER -->
+<!-- 🩸 BOTTOM BORDER -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:8B0000&height=120&section=footer"/>
 </p>
