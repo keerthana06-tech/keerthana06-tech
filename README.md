@@ -9,7 +9,7 @@
 <hr style="border: 1px solid #bb00ff;">
 
 <p align="center">
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="250"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:bb00ff&height=120&section=header"/>
 </p>
 
 ---
@@ -30,7 +30,7 @@ My goal is to grow into the **investigative side of cybersecurity**, where I can
 
 ## ⚡ Mindset
 
-- 🖤 Calm, focused, and consistent  
+- 🖤 Calm, focused, consistent  
 - 💡 Understanding > memorizing  
 - 🧩 Strong problem-solving approach  
 - 🔐 Curious about system vulnerabilities  
@@ -40,7 +40,7 @@ My goal is to grow into the **investigative side of cybersecurity**, where I can
 
 ## 🚀 Skills
 
-- 💻 Languages: C, Python, Java  
+- 💻 Languages: Python, C, AI Literecy
 - 🌐 Web: HTML, CSS, Flask  
 - 🔐 Security: Cryptography basics, AES, Hashing  
 - 🛠 Tools: Git, GitHub, VS Code, Visual Studio  
@@ -79,8 +79,8 @@ My goal is to grow into the **investigative side of cybersecurity**, where I can
   <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
@@ -94,4 +94,3 @@ My goal is to grow into the **investigative side of cybersecurity**, where I can
 - 💼 LinkedIn: your-linkedin-link  
 
 ---
-
