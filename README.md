@@ -18,7 +18,7 @@
 
 <!-- 🩸 RED HACKER STYLE GIF -->
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalQqdWfao/giphy.gif" width="400"/>
+  <img src="https://v1.pinimg.com/videos/mc/720p/a6/27/f0/a627f013f245bda22648ed907565bba4.mp4" width="380"/>
 </p>
 
 
