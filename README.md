@@ -3,11 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=BB00FF&center=true&vCenter=true&lines=Cybersecurity+Student;Ethical+Hacker+in+Progress;Loves+Debugging+%26+Singing;Building+Secure+Systems;Always+Learning..." />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=keerthana06-tech&label=Profile%20Views&color=bb00ff&style=flat" />
+  <img src="https://readme-typing-svg.herokuapp.com?color=BB00FF&center=true&vCenter=true&lines=I+Break+Systems+To+Secure+Them;Cybersecurity+is+My+Game;Code.+Analyze.+Defend.;Future+Digital+Investigator;Silent+Focus.+Powerful+Results." />
 </p>
 
 <hr style="border: 1px solid #bb00ff;">
@@ -22,29 +18,29 @@
 
 Hey! I'm **Keerthana** 👋  
 
-A cybersecurity student who’s curious about how things really work behind the scenes — especially systems, security, and hidden vulnerabilities. I enjoy learning by building, breaking, and fixing things (sometimes all at once 😄).  
+A cybersecurity student who’s deeply curious about how systems work — and how they can be broken and secured. I enjoy exploring the hidden side of technology, understanding vulnerabilities, and building stronger solutions.  
 
-I’m currently growing my skills in **programming + cybersecurity**, focusing on writing clean code and creating meaningful, user-friendly projects. I don’t just learn things — I like understanding them deeply.   
+I’m currently developing my skills in **programming and cybersecurity**, focusing on writing clean, efficient code and creating meaningful, user-friendly projects. I believe in understanding concepts deeply rather than just using them.  
 
-Singing is my escape when debugging gets intense 🎶  
+I prefer a **minimal, focused approach 🖤** — simple on the outside, powerful on the inside. Once I start something, I stay with it until I truly understand it.  
 
-My goal is to become strong in the **investigative side of cybersecurity** — analyzing and solving real-world digital threats.  
+My goal is to grow into the **investigative side of cybersecurity**, where I can analyze, track, and solve real-world digital threats.  
 
 ---
 
 ## ⚡ Mindset
 
-- 🖤 Calm, focused, consistent  
+- 🖤 Calm, focused, and consistent  
 - 💡 Understanding > memorizing  
-- 🧩 Problem-solving mindset  
-- 🔐 Curious about system security  
+- 🧩 Strong problem-solving approach  
+- 🔐 Curious about system vulnerabilities  
 - 🎯 Progress over perfection  
 
 ---
 
 ## 🚀 Skills
 
-- 💻 Languages: Python, C, AI Literecy  
+- 💻 Languages: C, Python, Java  
 - 🌐 Web: HTML, CSS, Flask  
 - 🔐 Security: Cryptography basics, AES, Hashing  
 - 🛠 Tools: Git, GitHub, VS Code, Visual Studio  
