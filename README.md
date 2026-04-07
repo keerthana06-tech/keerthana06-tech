@@ -1,5 +1,4 @@
-<img width="720" height="1280" alt="image" src="https://github.com/user-attachments/assets/88f6268b-9029-4af5-9b76-7bc064cb6ed3" /><!-- 🩸 TOP BLOOD RED BORDER -->
-<p align="center">
+
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=120&section=header&animation=fadeIn"/>
 </p>
 
