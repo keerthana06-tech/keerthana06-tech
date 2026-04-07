@@ -1,4 +1,4 @@
-
+<p>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8B0000,100:000000&height=120&section=header&animation=fadeIn"/>
 </p>
 
@@ -13,11 +13,6 @@
 <!-- 🔥 RED GLOW LINE -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0000,100:000000&height=4&animation=twinkling"/>
-</p>
-
-<!-- 🩸 RED HACKER STYLE GIF -->
-<p align="center">
-  <img src="" style="max-width:400px;"/>
 </p>
 
 
