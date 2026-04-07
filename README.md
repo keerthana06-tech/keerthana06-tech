@@ -16,11 +16,10 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,50:FF0000,100:000000&height=4&animation=twinkling"/>
 </p>
 
-<!-- 🩸 YOUR IMAGE -->
+<!-- 🩸 YOUR IMAGE  -->
 <p align="center">
-  <img src="red-hacker.png" width="400"/>
+  <img src="https://raw.githubusercontent.com/keerthana06-tech/keerthana06-tech/main/red-hacker.png" width="400"/>
 </p>
-
 ---
 
 ## Connect With Me
