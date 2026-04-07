@@ -18,8 +18,7 @@
 
 <!-- 🩸 RED HACKER STYLE GIF -->
 <p align="center">
-  <img src="![gif-ezgif com-video-to-gif-converter (1)](https://github.com/user-attachments/assets/e29fd31a-6ff1-4027-9205-696302691d13)
-" width="380"/>
+  <img src="C:\Users\kethc\Downloads\gif-ezgif.com-video-to-gif-converter (1).gif" width="380"/>
 </p>
 
 
